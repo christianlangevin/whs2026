@@ -39,3 +39,6 @@ Topics that will be covered include the following:
 
 ## Software
 This workshop consists of hands-on exercises designed improve overall groundwater modeling proficiency with Python.  Participants will need to bring a laptop computer to the workshop with the required software already installed.  See the [Software Installation](./SOFTWARE.md) page for instructions on how to install the required software.
+
+## Workshop Sponsor
+![alt](images/SSPA_Logo.png)
