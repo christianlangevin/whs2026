@@ -398,7 +398,7 @@ def get_mf6gwf_sim(sim_ws, lake_concentration=1.0, recharge_concentration=0.0):
         sim_name=name,
         sim_ws=sim_ws,
         exe_name="mf6",
-        continue_=True,
+        continue_=False,
     )
     tdis = flopy.mf6.ModflowTdis(
         sim, time_units="days", perioddata=((pertim, 1, 1.0),)
