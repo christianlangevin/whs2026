@@ -50,6 +50,8 @@ dependencies:
   - rasterio
   - xarray
   - rioxarray
+  - rasterstats
+  - pyshp
   - netcdf4
   - contextily
   - git
